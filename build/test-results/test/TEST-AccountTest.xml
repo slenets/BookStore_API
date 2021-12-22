@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AccountTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-04T15:46:08" hostname="DESKTOP-LINCIVQ" time="3.378">
+  <properties/>
+  <testcase name="authorizedCode200Test" classname="AccountTest" time="1.541"/>
+  <testcase name="authorizedCode400" classname="AccountTest" time="1.393"/>
+  <testcase name="authorizedCode404" classname="AccountTest" time="0.436"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
